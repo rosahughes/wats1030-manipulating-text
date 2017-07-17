@@ -1,0 +1,1 @@
+My favorite text editor is nano. It is the simplest and the commands are easy to type and remember. Emacs commands are quite confusing and have multiple keystrokes that are not muscle-memory-friendly. Vi gets confusing with the different modes. However, all three are fairly similar for simple commands, so I don't have a strong preference. Nano was the most intuitive for me.
